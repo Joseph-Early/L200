@@ -1,4 +1,4 @@
-;# L200
+# L200
 L200 is a single-file class library that provides a simple logger for C# projects.
 
 To use L200, add the class library to your project and then `Logger.Setup()` and `Logger.Log()` should work. A simple example is shown below:
